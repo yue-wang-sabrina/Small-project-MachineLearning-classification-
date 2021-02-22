@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{PCA}
+S.~Raschka, ``{Implementing a Principal Component Analysis (PCA)}.''
+  \url{http://sebastianraschka.com/Articles/2014\_pca\_step\_by\_step.html\#drop\_labels}.
+\newblock [Online; accessed 31-December-2017].
+
+\bibitem{LDA}
+S.~Raschka, ``{Linear Discriminant Analysis}.''
+  \url{http://sebastianraschka.com/Articles/2014\_python\_lda.html}.
+\newblock [Online; accessed 31-December-2017].
+
+\end{thebibliography}
